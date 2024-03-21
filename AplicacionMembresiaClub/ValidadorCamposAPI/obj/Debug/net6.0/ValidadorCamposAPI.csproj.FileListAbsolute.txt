@@ -1,0 +1,12 @@
+C:\Users\Franco\Documents\Proyectos\AplicacionMembresiaClub\ValidadorCamposAPI\bin\Debug\net6.0\ValidadorCamposAPI.deps.json
+C:\Users\Franco\Documents\Proyectos\AplicacionMembresiaClub\ValidadorCamposAPI\bin\Debug\net6.0\ValidadorCamposAPI.dll
+C:\Users\Franco\Documents\Proyectos\AplicacionMembresiaClub\ValidadorCamposAPI\bin\Debug\net6.0\ValidadorCamposAPI.pdb
+C:\Users\Franco\Documents\Proyectos\AplicacionMembresiaClub\ValidadorCamposAPI\obj\Debug\net6.0\ValidadorCamposAPI.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\Proyectos\AplicacionMembresiaClub\ValidadorCamposAPI\obj\Debug\net6.0\ValidadorCamposAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\Proyectos\AplicacionMembresiaClub\ValidadorCamposAPI\obj\Debug\net6.0\ValidadorCamposAPI.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\Proyectos\AplicacionMembresiaClub\ValidadorCamposAPI\obj\Debug\net6.0\ValidadorCamposAPI.AssemblyInfo.cs
+C:\Users\Franco\Documents\Proyectos\AplicacionMembresiaClub\ValidadorCamposAPI\obj\Debug\net6.0\ValidadorCamposAPI.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\Proyectos\AplicacionMembresiaClub\ValidadorCamposAPI\obj\Debug\net6.0\ValidadorCamposAPI.dll
+C:\Users\Franco\Documents\Proyectos\AplicacionMembresiaClub\ValidadorCamposAPI\obj\Debug\net6.0\refint\ValidadorCamposAPI.dll
+C:\Users\Franco\Documents\Proyectos\AplicacionMembresiaClub\ValidadorCamposAPI\obj\Debug\net6.0\ValidadorCamposAPI.pdb
+C:\Users\Franco\Documents\Proyectos\AplicacionMembresiaClub\ValidadorCamposAPI\obj\Debug\net6.0\ref\ValidadorCamposAPI.dll
