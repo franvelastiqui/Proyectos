@@ -1,0 +1,15 @@
+C:\Users\Franco\Documents\Proyectos\WildCatsApplication\WildCatsApplication\bin\Debug\net6.0\WildCatsApplication.exe
+C:\Users\Franco\Documents\Proyectos\WildCatsApplication\WildCatsApplication\bin\Debug\net6.0\WildCatsApplication.deps.json
+C:\Users\Franco\Documents\Proyectos\WildCatsApplication\WildCatsApplication\bin\Debug\net6.0\WildCatsApplication.runtimeconfig.json
+C:\Users\Franco\Documents\Proyectos\WildCatsApplication\WildCatsApplication\bin\Debug\net6.0\WildCatsApplication.dll
+C:\Users\Franco\Documents\Proyectos\WildCatsApplication\WildCatsApplication\bin\Debug\net6.0\WildCatsApplication.pdb
+C:\Users\Franco\Documents\Proyectos\WildCatsApplication\WildCatsApplication\obj\Debug\net6.0\WildCatsApplication.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\Proyectos\WildCatsApplication\WildCatsApplication\obj\Debug\net6.0\WildCatsApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\Proyectos\WildCatsApplication\WildCatsApplication\obj\Debug\net6.0\WildCatsApplication.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\Proyectos\WildCatsApplication\WildCatsApplication\obj\Debug\net6.0\WildCatsApplication.AssemblyInfo.cs
+C:\Users\Franco\Documents\Proyectos\WildCatsApplication\WildCatsApplication\obj\Debug\net6.0\WildCatsApplication.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\Proyectos\WildCatsApplication\WildCatsApplication\obj\Debug\net6.0\WildCatsApplication.dll
+C:\Users\Franco\Documents\Proyectos\WildCatsApplication\WildCatsApplication\obj\Debug\net6.0\refint\WildCatsApplication.dll
+C:\Users\Franco\Documents\Proyectos\WildCatsApplication\WildCatsApplication\obj\Debug\net6.0\WildCatsApplication.pdb
+C:\Users\Franco\Documents\Proyectos\WildCatsApplication\WildCatsApplication\obj\Debug\net6.0\WildCatsApplication.genruntimeconfig.cache
+C:\Users\Franco\Documents\Proyectos\WildCatsApplication\WildCatsApplication\obj\Debug\net6.0\ref\WildCatsApplication.dll
