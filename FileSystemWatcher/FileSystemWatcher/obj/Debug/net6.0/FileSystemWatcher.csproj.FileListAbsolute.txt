@@ -1,0 +1,15 @@
+C:\Users\Franco\Documents\Proyectos\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\Proyectos\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\Proyectos\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\Proyectos\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.AssemblyInfo.cs
+C:\Users\Franco\Documents\Proyectos\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\Proyectos\FileSystemWatcher\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.exe
+C:\Users\Franco\Documents\Proyectos\FileSystemWatcher\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.deps.json
+C:\Users\Franco\Documents\Proyectos\FileSystemWatcher\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.runtimeconfig.json
+C:\Users\Franco\Documents\Proyectos\FileSystemWatcher\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.dll
+C:\Users\Franco\Documents\Proyectos\FileSystemWatcher\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.pdb
+C:\Users\Franco\Documents\Proyectos\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.dll
+C:\Users\Franco\Documents\Proyectos\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\refint\FileSystemWatcher.dll
+C:\Users\Franco\Documents\Proyectos\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.pdb
+C:\Users\Franco\Documents\Proyectos\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.genruntimeconfig.cache
+C:\Users\Franco\Documents\Proyectos\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\ref\FileSystemWatcher.dll
