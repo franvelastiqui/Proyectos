@@ -1,0 +1,12 @@
+C:\Users\Franco\Documents\Proyectos\OfficeBuildingAutomation\OfficeBuildingAutomationAPI\bin\Debug\net6.0\OfficeBuildingAutomationAPI.deps.json
+C:\Users\Franco\Documents\Proyectos\OfficeBuildingAutomation\OfficeBuildingAutomationAPI\bin\Debug\net6.0\OfficeBuildingAutomationAPI.dll
+C:\Users\Franco\Documents\Proyectos\OfficeBuildingAutomation\OfficeBuildingAutomationAPI\bin\Debug\net6.0\OfficeBuildingAutomationAPI.pdb
+C:\Users\Franco\Documents\Proyectos\OfficeBuildingAutomation\OfficeBuildingAutomationAPI\obj\Debug\net6.0\OfficeBuildingAutomationAPI.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\Proyectos\OfficeBuildingAutomation\OfficeBuildingAutomationAPI\obj\Debug\net6.0\OfficeBuildingAutomationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\Proyectos\OfficeBuildingAutomation\OfficeBuildingAutomationAPI\obj\Debug\net6.0\OfficeBuildingAutomationAPI.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\Proyectos\OfficeBuildingAutomation\OfficeBuildingAutomationAPI\obj\Debug\net6.0\OfficeBuildingAutomationAPI.AssemblyInfo.cs
+C:\Users\Franco\Documents\Proyectos\OfficeBuildingAutomation\OfficeBuildingAutomationAPI\obj\Debug\net6.0\OfficeBuildingAutomationAPI.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\Proyectos\OfficeBuildingAutomation\OfficeBuildingAutomationAPI\obj\Debug\net6.0\OfficeBuildingAutomationAPI.dll
+C:\Users\Franco\Documents\Proyectos\OfficeBuildingAutomation\OfficeBuildingAutomationAPI\obj\Debug\net6.0\refint\OfficeBuildingAutomationAPI.dll
+C:\Users\Franco\Documents\Proyectos\OfficeBuildingAutomation\OfficeBuildingAutomationAPI\obj\Debug\net6.0\OfficeBuildingAutomationAPI.pdb
+C:\Users\Franco\Documents\Proyectos\OfficeBuildingAutomation\OfficeBuildingAutomationAPI\obj\Debug\net6.0\ref\OfficeBuildingAutomationAPI.dll
