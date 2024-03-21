@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentManagementSystem", "DocumentManagementSystem\DocumentManagementSystem.csproj", "{84016388-85FD-4FCE-9F34-22F5988FCC4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentManagementSystemAPI", "DocumentManagementSystemAPI\DocumentManagementSystemAPI.csproj", "{0FD9B6EA-C965-425E-A4AE-47266A167C69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84016388-85FD-4FCE-9F34-22F5988FCC4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84016388-85FD-4FCE-9F34-22F5988FCC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84016388-85FD-4FCE-9F34-22F5988FCC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84016388-85FD-4FCE-9F34-22F5988FCC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FD9B6EA-C965-425E-A4AE-47266A167C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FD9B6EA-C965-425E-A4AE-47266A167C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FD9B6EA-C965-425E-A4AE-47266A167C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FD9B6EA-C965-425E-A4AE-47266A167C69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A35E731-9C02-4078-B8D4-2F94213B6FFC}
+	EndGlobalSection
+EndGlobal

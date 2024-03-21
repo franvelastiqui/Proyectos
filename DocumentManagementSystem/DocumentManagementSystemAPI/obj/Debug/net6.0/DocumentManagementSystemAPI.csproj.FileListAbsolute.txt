@@ -1,0 +1,12 @@
+C:\Users\Franco\Documents\Proyectos\DocumentManagementSystem\DocumentManagementSystemAPI\bin\Debug\net6.0\DocumentManagementSystemAPI.deps.json
+C:\Users\Franco\Documents\Proyectos\DocumentManagementSystem\DocumentManagementSystemAPI\bin\Debug\net6.0\DocumentManagementSystemAPI.dll
+C:\Users\Franco\Documents\Proyectos\DocumentManagementSystem\DocumentManagementSystemAPI\bin\Debug\net6.0\DocumentManagementSystemAPI.pdb
+C:\Users\Franco\Documents\Proyectos\DocumentManagementSystem\DocumentManagementSystemAPI\obj\Debug\net6.0\DocumentManagementSystemAPI.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\Proyectos\DocumentManagementSystem\DocumentManagementSystemAPI\obj\Debug\net6.0\DocumentManagementSystemAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\Proyectos\DocumentManagementSystem\DocumentManagementSystemAPI\obj\Debug\net6.0\DocumentManagementSystemAPI.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\Proyectos\DocumentManagementSystem\DocumentManagementSystemAPI\obj\Debug\net6.0\DocumentManagementSystemAPI.AssemblyInfo.cs
+C:\Users\Franco\Documents\Proyectos\DocumentManagementSystem\DocumentManagementSystemAPI\obj\Debug\net6.0\DocumentManagementSystemAPI.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\Proyectos\DocumentManagementSystem\DocumentManagementSystemAPI\obj\Debug\net6.0\DocumentManagementSystemAPI.dll
+C:\Users\Franco\Documents\Proyectos\DocumentManagementSystem\DocumentManagementSystemAPI\obj\Debug\net6.0\refint\DocumentManagementSystemAPI.dll
+C:\Users\Franco\Documents\Proyectos\DocumentManagementSystem\DocumentManagementSystemAPI\obj\Debug\net6.0\DocumentManagementSystemAPI.pdb
+C:\Users\Franco\Documents\Proyectos\DocumentManagementSystem\DocumentManagementSystemAPI\obj\Debug\net6.0\ref\DocumentManagementSystemAPI.dll
