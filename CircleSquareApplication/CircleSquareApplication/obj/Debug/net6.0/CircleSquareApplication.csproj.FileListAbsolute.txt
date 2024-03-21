@@ -1,0 +1,15 @@
+C:\Users\Franco\Documents\Proyectos\CircleSquareApplication\CircleSquareApplication\bin\Debug\net6.0\CircleSquareApplication.exe
+C:\Users\Franco\Documents\Proyectos\CircleSquareApplication\CircleSquareApplication\bin\Debug\net6.0\CircleSquareApplication.deps.json
+C:\Users\Franco\Documents\Proyectos\CircleSquareApplication\CircleSquareApplication\bin\Debug\net6.0\CircleSquareApplication.runtimeconfig.json
+C:\Users\Franco\Documents\Proyectos\CircleSquareApplication\CircleSquareApplication\bin\Debug\net6.0\CircleSquareApplication.dll
+C:\Users\Franco\Documents\Proyectos\CircleSquareApplication\CircleSquareApplication\bin\Debug\net6.0\CircleSquareApplication.pdb
+C:\Users\Franco\Documents\Proyectos\CircleSquareApplication\CircleSquareApplication\obj\Debug\net6.0\CircleSquareApplication.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\Proyectos\CircleSquareApplication\CircleSquareApplication\obj\Debug\net6.0\CircleSquareApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\Proyectos\CircleSquareApplication\CircleSquareApplication\obj\Debug\net6.0\CircleSquareApplication.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\Proyectos\CircleSquareApplication\CircleSquareApplication\obj\Debug\net6.0\CircleSquareApplication.AssemblyInfo.cs
+C:\Users\Franco\Documents\Proyectos\CircleSquareApplication\CircleSquareApplication\obj\Debug\net6.0\CircleSquareApplication.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\Proyectos\CircleSquareApplication\CircleSquareApplication\obj\Debug\net6.0\CircleSquareApplication.dll
+C:\Users\Franco\Documents\Proyectos\CircleSquareApplication\CircleSquareApplication\obj\Debug\net6.0\refint\CircleSquareApplication.dll
+C:\Users\Franco\Documents\Proyectos\CircleSquareApplication\CircleSquareApplication\obj\Debug\net6.0\CircleSquareApplication.pdb
+C:\Users\Franco\Documents\Proyectos\CircleSquareApplication\CircleSquareApplication\obj\Debug\net6.0\CircleSquareApplication.genruntimeconfig.cache
+C:\Users\Franco\Documents\Proyectos\CircleSquareApplication\CircleSquareApplication\obj\Debug\net6.0\ref\CircleSquareApplication.dll
