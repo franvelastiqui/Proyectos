@@ -1,0 +1,12 @@
+C:\Users\Franco\Documents\Proyectos\EmployeeApplication\EmployeeComponent\bin\Debug\net6.0\EmployeeComponent.deps.json
+C:\Users\Franco\Documents\Proyectos\EmployeeApplication\EmployeeComponent\bin\Debug\net6.0\EmployeeComponent.dll
+C:\Users\Franco\Documents\Proyectos\EmployeeApplication\EmployeeComponent\bin\Debug\net6.0\EmployeeComponent.pdb
+C:\Users\Franco\Documents\Proyectos\EmployeeApplication\EmployeeComponent\obj\Debug\net6.0\EmployeeComponent.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\Proyectos\EmployeeApplication\EmployeeComponent\obj\Debug\net6.0\EmployeeComponent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\Proyectos\EmployeeApplication\EmployeeComponent\obj\Debug\net6.0\EmployeeComponent.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\Proyectos\EmployeeApplication\EmployeeComponent\obj\Debug\net6.0\EmployeeComponent.AssemblyInfo.cs
+C:\Users\Franco\Documents\Proyectos\EmployeeApplication\EmployeeComponent\obj\Debug\net6.0\EmployeeComponent.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\Proyectos\EmployeeApplication\EmployeeComponent\obj\Debug\net6.0\EmployeeComponent.dll
+C:\Users\Franco\Documents\Proyectos\EmployeeApplication\EmployeeComponent\obj\Debug\net6.0\refint\EmployeeComponent.dll
+C:\Users\Franco\Documents\Proyectos\EmployeeApplication\EmployeeComponent\obj\Debug\net6.0\EmployeeComponent.pdb
+C:\Users\Franco\Documents\Proyectos\EmployeeApplication\EmployeeComponent\obj\Debug\net6.0\ref\EmployeeComponent.dll
