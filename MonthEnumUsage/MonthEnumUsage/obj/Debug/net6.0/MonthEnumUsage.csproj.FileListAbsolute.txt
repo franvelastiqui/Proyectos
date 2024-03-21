@@ -1,0 +1,15 @@
+C:\Users\Franco\Documents\Proyectos\MonthEnumUsage\MonthEnumUsage\bin\Debug\net6.0\MonthEnumUsage.exe
+C:\Users\Franco\Documents\Proyectos\MonthEnumUsage\MonthEnumUsage\bin\Debug\net6.0\MonthEnumUsage.deps.json
+C:\Users\Franco\Documents\Proyectos\MonthEnumUsage\MonthEnumUsage\bin\Debug\net6.0\MonthEnumUsage.runtimeconfig.json
+C:\Users\Franco\Documents\Proyectos\MonthEnumUsage\MonthEnumUsage\bin\Debug\net6.0\MonthEnumUsage.dll
+C:\Users\Franco\Documents\Proyectos\MonthEnumUsage\MonthEnumUsage\bin\Debug\net6.0\MonthEnumUsage.pdb
+C:\Users\Franco\Documents\Proyectos\MonthEnumUsage\MonthEnumUsage\obj\Debug\net6.0\MonthEnumUsage.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\Proyectos\MonthEnumUsage\MonthEnumUsage\obj\Debug\net6.0\MonthEnumUsage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\Proyectos\MonthEnumUsage\MonthEnumUsage\obj\Debug\net6.0\MonthEnumUsage.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\Proyectos\MonthEnumUsage\MonthEnumUsage\obj\Debug\net6.0\MonthEnumUsage.AssemblyInfo.cs
+C:\Users\Franco\Documents\Proyectos\MonthEnumUsage\MonthEnumUsage\obj\Debug\net6.0\MonthEnumUsage.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\Proyectos\MonthEnumUsage\MonthEnumUsage\obj\Debug\net6.0\MonthEnumUsage.dll
+C:\Users\Franco\Documents\Proyectos\MonthEnumUsage\MonthEnumUsage\obj\Debug\net6.0\refint\MonthEnumUsage.dll
+C:\Users\Franco\Documents\Proyectos\MonthEnumUsage\MonthEnumUsage\obj\Debug\net6.0\MonthEnumUsage.pdb
+C:\Users\Franco\Documents\Proyectos\MonthEnumUsage\MonthEnumUsage\obj\Debug\net6.0\MonthEnumUsage.genruntimeconfig.cache
+C:\Users\Franco\Documents\Proyectos\MonthEnumUsage\MonthEnumUsage\obj\Debug\net6.0\ref\MonthEnumUsage.dll
