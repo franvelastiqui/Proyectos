@@ -1,0 +1,15 @@
+C:\Users\Franco\Documents\Proyectos\MemoryStreams\MemoryStreams\bin\Debug\net6.0\MemoryStreams.exe
+C:\Users\Franco\Documents\Proyectos\MemoryStreams\MemoryStreams\bin\Debug\net6.0\MemoryStreams.deps.json
+C:\Users\Franco\Documents\Proyectos\MemoryStreams\MemoryStreams\bin\Debug\net6.0\MemoryStreams.runtimeconfig.json
+C:\Users\Franco\Documents\Proyectos\MemoryStreams\MemoryStreams\bin\Debug\net6.0\MemoryStreams.dll
+C:\Users\Franco\Documents\Proyectos\MemoryStreams\MemoryStreams\bin\Debug\net6.0\MemoryStreams.pdb
+C:\Users\Franco\Documents\Proyectos\MemoryStreams\MemoryStreams\obj\Debug\net6.0\MemoryStreams.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\Proyectos\MemoryStreams\MemoryStreams\obj\Debug\net6.0\MemoryStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\Proyectos\MemoryStreams\MemoryStreams\obj\Debug\net6.0\MemoryStreams.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\Proyectos\MemoryStreams\MemoryStreams\obj\Debug\net6.0\MemoryStreams.AssemblyInfo.cs
+C:\Users\Franco\Documents\Proyectos\MemoryStreams\MemoryStreams\obj\Debug\net6.0\MemoryStreams.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\Proyectos\MemoryStreams\MemoryStreams\obj\Debug\net6.0\MemoryStreams.dll
+C:\Users\Franco\Documents\Proyectos\MemoryStreams\MemoryStreams\obj\Debug\net6.0\refint\MemoryStreams.dll
+C:\Users\Franco\Documents\Proyectos\MemoryStreams\MemoryStreams\obj\Debug\net6.0\MemoryStreams.pdb
+C:\Users\Franco\Documents\Proyectos\MemoryStreams\MemoryStreams\obj\Debug\net6.0\MemoryStreams.genruntimeconfig.cache
+C:\Users\Franco\Documents\Proyectos\MemoryStreams\MemoryStreams\obj\Debug\net6.0\ref\MemoryStreams.dll
